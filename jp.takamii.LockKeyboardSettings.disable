@@ -1,0 +1,8 @@
+#!/bin/bash
+
+PLIST="/var/mobile/Library/Preferences/com.apple.Preferences.plist"
+LOCK_FILE="/var/mobile/Library/Preferences/jp.takamii.LockKeyboardSettings.lock"
+
+chflags noschg ${PLIST}
+rm ${LOCK_FILE}
+

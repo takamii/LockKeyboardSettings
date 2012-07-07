@@ -1,0 +1,11 @@
+Package: jp.takamii.LockKeyboardSettings
+Name: LockKeyboardSettings
+Version: 0.1-1
+Architecture: iphoneos-arm
+Description: Lock KeyboardSettings Toggle for SBSettings
+Depiction: http://repo.takamii.com/depiction/LockKeyboardSettings.html
+Maintainer: takamii <takami6564+cydia@gmail.com>
+Author: takamii <takami6564+cydia@gmail.com>
+Section: SBSettings Addons
+Depends: sbsettings
+dev: takamii
